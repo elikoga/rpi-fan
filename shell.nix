@@ -8,5 +8,6 @@ pkgs.mkShell {
     pkgs.black
     pkgs.libgpiod
     pkgs.lm_sensors
+    pkgs.git
   ];
 }
